@@ -1,0 +1,8 @@
+azure:
+  storage_account: your_storage_account
+  container: raw-data
+
+paths:
+  raw_orders: raw/orders
+  raw_products: raw/products
+  processed_orders: processed/orders
