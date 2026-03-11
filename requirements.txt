@@ -1,0 +1,10 @@
+apache-airflow
+pandas
+requests
+pyarrow
+azure-storage-blob
+azure-identity
+great_expectations
+dbt-core
+dbt-synapse
+pyspark
