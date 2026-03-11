@@ -12,4 +12,5 @@ def validate_orders():
 
     print(result)
 
+  
     
