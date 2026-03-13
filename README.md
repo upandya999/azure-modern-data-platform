@@ -1,5 +1,5 @@
 # Azure Modern Data Platform
-![Alt text for the image]([https://example.com/path/to/image.png](https://github.com/upandya999/azure-modern-data-platform/blob/main/project_images/azure_pipeline_official_logos.svg))
+![Alt text for the image](https://github.com/upandya999/azure-modern-data-platform/blob/main/project_images/azure_pipeline_official_logos.svg)
 
 This project builds an end-to-end modern data pipeline using Azure and Airflow.
 
